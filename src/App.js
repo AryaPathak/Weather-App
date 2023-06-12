@@ -1,9 +1,9 @@
-
+import Temp from "./Componants/weather/temp";
 
 function App() {
   return (
     <>
-      HELLO
+      <Temp/>
     </>
   );
 }
